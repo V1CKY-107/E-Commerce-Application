@@ -2,8 +2,7 @@
 
 E-Commerce Application basically a model for ecommerce web development
 
-some details are given below
-![image](https://user-images.githubusercontent.com/79581616/147833930-193cb42e-d85d-4c5d-a145-7de9460b60ab.png)
+# some details are given below
 
 
 # Used Tachnologies
