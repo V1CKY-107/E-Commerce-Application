@@ -3,7 +3,7 @@
 E-Commerce Application basically a model for ecommerce web development
 
 # some details are given below
-
+ {"icon":{"id":"H2AZubtkiQOo","name":"Down","downloads":162,"isAnimated":true,"platform":"ios11","timestamp":1605216895,"url":"/icon/H2AZubtkiQOo/down","commonId":"163","commonName":"down--v3","category":"Arrows"},"id":"H2AZubtkiQOo"}
 
 # Used Tachnologies
   Django Framework,
